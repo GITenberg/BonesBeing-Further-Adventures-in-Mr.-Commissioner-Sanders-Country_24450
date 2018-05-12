@@ -1,0 +1,40 @@
+_repo: BonesBeing-Further-Adventures-in-Mr.-Commissioner-Sanders-Country_24450
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wallace, Edgar
+    alias: Wallace, Richard Horatio Edgar
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '999'
+    url: http://www.gutenberg.org/2009/agents/999
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Wallace
+description: It is a time when the major world powers are vying for colonial honours,
+  a time of ju-ju, witch doctors and an uneasy peace with Bosambo, impressive chief
+  of the Ochori. When Commissioner Sanders goes on leave, the trusty Lieutenant Hamilton
+  takes over administration of the African territories. However, yet again, the trouble-prone
+  Bones, while meaning to assist, only manages to spread his own unique style of innocent
+  and endearing mischief.
+gutenberg_bookshelf: Adventure
+gutenberg_issued: '2008-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- History -- 1884-1918 -- Fiction'
+- !lcsh 'Great Britain -- Colonies -- Africa -- Administration -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+tableOfContents: 'Prologue: Sanders, C.M.G. -- Hamilton of the Houssas -- The disciplinarians
+  -- The lost N''bosini -- The fetish stick -- A frontier and a code -- The soul of
+  the native woman -- The stranger who walked by night -- A right of way -- The green
+  crocodile -- Henry Hamilton Bones -- Bones at M''fa -- The man who did not sleep.'
+title: '"Bones": Being Further Adventures in Mr. Commissioner Sanders'' Country'
+url: http://www.gutenberg.org/ebooks/24450
